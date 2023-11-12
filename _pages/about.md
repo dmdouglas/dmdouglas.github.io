@@ -24,7 +24,7 @@ I completed a PhD in philosophy at the University of Queensland in November 2011
 
 [<i class="fas fa-link"></i> 4TU.Centre for Ethics and Technology page](https://ethicsandtechnology.eu/member/douglas-d-david/)
 
-[<i class="fas fa-link"></i> Academia.edu Profile](https://independent.academia.edu/DavidMDouglas)
+[<i class="fas fa-link"></i> Academia.edu Profile](https://csiro.academia.edu/DavidDouglas)
 
 [<i class="fab fa-github-square"></i> GitHub page](https://github.com/dmdouglas)
 
