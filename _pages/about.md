@@ -19,8 +19,26 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My primary research interest is investigating information technology from the perspective of Anglo-American political philosophy and liberal theories of distributive justice. I have published research papers on free software, intellectual property rights, Internet regulation, doxing, Internet research ethics, and AI ethics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am currently a research scientist with the CSIRO, Australia's national science agency, where I work on responsible innovation in new and emerging technologies. I joined the CSIRO in 2019 as a postdoctoral fellow working on responsible innovation in robotics and AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During 2015 and 2016 I was a postdoctoral researcher with the Department of Philosophy and ethics advisor within the Centre for Telematics and Information Technology (CTIT) at the University of Twente in the Netherlands. I also worked on the EU FP7 [SATORI (Stakeholders Acting Together On the ethical impact assessment of Research and Innovation)](http://satoriproject.eu/) project. 
+
+I completed a PhD in philosophy at the University of Queensland in November 2011. My thesis presented a framework describing the rights and duties various stakeholders may have over computer software, and examined the arguments for and against granting users specific rights over the software they use.
+
+[<i class="fas fa-link"></i> 4TU.Centre for Ethics and Technology page](https://ethicsandtechnology.eu/member/douglas-d-david/)
+
+[<i class="fas fa-link"></i> Academia.edu Profile](https://independent.academia.edu/DavidMDouglas)
+
+[<i class="fab fa-github-square"></i> GitHub page](https://github.com/dmdouglas)
+
+[<i class="fab fa-google"></i> Google Scholar profile](https://scholar.google.com.au/citations?user=HnOi6FQAAAAJ)
+
+[<i class="fab fa-linkedin"></i> LinkedIn profile](https://www.linkedin.com/in/david-douglas-249289bb)
+
+[<i class="fas fa-link"></i> ORCID profile](https://orcid.org/0000-0003-2448-871X)
+
+[<i class="fas fa-link"></i> PhilPeople profile](https://philpeople.org/profiles/david-m-douglas)
+
+[<i class="fab fa-researchgate"></i> ResearchGate profile](https://www.researchgate.net/profile/David_Douglas13)
