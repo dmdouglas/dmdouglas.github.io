@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 profile:
@@ -11,7 +11,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 My primary research interest is investigating information technology from the perspective of Anglo-American political philosophy and liberal theories of distributive justice. I have published research papers on free software, intellectual property rights, Internet regulation, doxing, Internet research ethics, and AI ethics.
@@ -26,15 +26,7 @@ I completed a PhD in philosophy at the University of Queensland in November 2011
 
 [<i class="fas fa-link"></i> Academia.edu Profile](https://csiro.academia.edu/DavidDouglas)
 
-[<i class="fab fa-github-square"></i> GitHub page](https://github.com/dmdouglas)
-
-[<i class="fab fa-google"></i> Google Scholar profile](https://scholar.google.com.au/citations?user=HnOi6FQAAAAJ)
-
-[<i class="fab fa-linkedin"></i> LinkedIn profile](https://www.linkedin.com/in/david-douglas-249289bb)
-
-[<i class="fas fa-link"></i> ORCID profile](https://orcid.org/0000-0003-2448-871X)
-
 [<i class="fas fa-link"></i> PhilPeople profile](https://philpeople.org/profiles/david-m-douglas)
 
-[<i class="fab fa-researchgate"></i> ResearchGate profile](https://www.researchgate.net/profile/David_Douglas13)
->>>>>>> a05e6264 (Update about.md)
+[<i class="fab fa-researchgate"></i> ResearchGate profile](https://www.researchgate.net/profile/David-Douglas)
+
