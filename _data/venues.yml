@@ -21,3 +21,7 @@
 "IEEE Intell. Syst.":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670
   color: "14303e"
+
+"CSIRO":
+  url: https://www.csiro.au/
+  color: "00a9ce"
