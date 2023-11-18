@@ -25,3 +25,7 @@
 "CSIRO":
   url: https://www.csiro.au/
   color: "00a9ce"
+
+"Comm. ACM":
+  url: https://cacm.acm.org/
+  color: "3395b6"
