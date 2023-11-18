@@ -1,11 +1,23 @@
-"AI and Ethics":
+"AI & Ethics":
   url: https://www.springer.com/journal/43681
   color: "#e7600e"
 
-"Ethics and IT":
+"Ethics Inf. Technology":
   url: https://www.springer.com/journal/10676
   color: "b9babc"
 
-"Science and Engineering Ethics":
+"Sci Eng Ethics":
   url: https://www.springer.com/journal/11948
   color: "1c2340"
+
+"SATORI":
+  url: https://satoriproject.eu/
+  color: "f7a600"
+
+"SIENNA":
+  url: https://www.sienna-project.eu/
+  color: "ff7f00"
+
+"IEEE Intell. Systems":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670
+  color: "14303e"
