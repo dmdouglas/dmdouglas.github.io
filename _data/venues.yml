@@ -4,28 +4,28 @@
 
 "Ethics Inf. Technol.":
   url: https://www.springer.com/journal/10676
-  color: "b9babc"
+  color: "#b9babc"
 
 "Sci Eng Ethics":
   url: https://www.springer.com/journal/11948
-  color: "1c2340"
+  color: "#1c2340"
 
 "SATORI":
   url: https://satoriproject.eu/
-  color: "f7a600"
+  color: "#f7a600"
 
 "SIENNA":
   url: https://www.sienna-project.eu/
-  color: "ff7f00"
+  color: "#ff7f00"
 
 "IEEE Intell. Syst.":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670
-  color: "14303e"
+  color: "#14303e"
 
 "CSIRO":
   url: https://www.csiro.au/
-  color: "00a9ce"
+  color: "#00a9ce"
 
 "Comm. ACM":
   url: https://cacm.acm.org/
-  color: "3395b6"
+  color: "#3395b6"
