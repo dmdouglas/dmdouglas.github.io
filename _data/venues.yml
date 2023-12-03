@@ -41,3 +41,15 @@
 "arXiv":
   url: https://arxiv.org
   color: "#b31b1b"
+
+"Delphi":
+  url: https://delphi.lexxion.eu/
+  color: "#78b800"
+
+"UniSA Stud. Law Rev.":
+  url: https://ojs.unisa.edu.au/index.php/uslr/article/view/1491
+  color: "#0b52a5"
+
+"JICES":
+  url: https://www.emerald.com/insight/publication/issn/1477-996X
+  color: "#78a2d7"
