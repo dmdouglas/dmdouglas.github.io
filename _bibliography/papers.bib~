@@ -4,6 +4,7 @@
 @article{douglas_social_2014,
 	title = {The {Social} {Goods} of {Information} {Networks}: {Complex} {Equality} and {Wu}'s {Separation} {Principles}},
 	volume = {19},
+	copyright = {Authors submitting a paper to First Monday automatically agree to confer a limited license to First Monday if and when the manuscript is accepted for publication. This license allows First Monday to publish a manuscript in a given issue. Authors have a choice of: 1. Dedicating the article to the public domain. This allows anyone to make any use of the article at any time, including commercial use. A good way to do this is to use the Creative Commons Public Domain Dedication Web form; see  http://creativecommons.org/license/publicdomain-2?lang=en . 2. Retaining some rights while allowing some use. For example, authors may decide to disallow commercial use without permission. Authors may also decide whether to allow users to make modifications (e.g. translations, adaptations) without permission. A good way to make these choices is to use a Creative Commons license. * Go to  http://creativecommons.org/license/ . * Choose and select a license. * What to do next — you can then e–mail the license html code to yourself. Do this, and then forward that e–mail to First Monday’s editors. Put your name in the subject line of the e–mail with your name and article title in the e–mail. Background information about Creative Commons licenses can be found at  http://creativecommons.org/about/licenses/ . 3. Retaining full rights, including translation and reproduction rights. Authors may use the statement: © Author 2014 All Rights Reserved. Authors may choose to use their own wording to reserve copyright. If you choose to retain full copyright, please add your copyright statement to the end of the article. Authors submitting a paper to First Monday do so in the understanding that Internet publishing is both an opportunity and challenge. In this environment, authors and publishers do not always have the means to protect against unauthorized copying or editing of copyright–protected works.},
 	issn = {13960466},
 	shorttitle = {The social goods of information networks},
 	url = {http://firstmonday.org/ojs/index.php/fm/article/view/4652},
@@ -18,7 +19,6 @@
 	year = {2014},
 	keywords = {Distributive Justice, Michael Walzer, Information Networks, Internet Regulation, Network Regulation},
 	website = {http://firstmonday.org/ojs/index.php/fm/article/view/4652},
-	abbr = "First Monday",
 }
 
 @article{douglas_making_2012,
@@ -65,7 +65,7 @@ withholding these particular rights from users. However, the social disutility c
 	year = {2011},
 	keywords = {Software, Free Software, Software Licensing, Copyleft, Rights},
 	pages = {185--197},
-	abbr = {Ethics Inf. \nTechnol.},
+	abbr = {Ethics Inf. Technol.},
 }
 
 @misc{douglas_pre-owned_2013,
@@ -147,7 +147,7 @@ withholding these particular rights from users. However, the social disutility c
 	keywords = {Privacy, Internet, Anonymity, Doxing, Sexual Harassment},
 	pages = {199--210},
 	pdf = {douglas_2016_doxing.pdf},
-	abbr = {Ethics Inf. \nTechnol.},
+	abbr = {Ethics Inf. Technol.},
 }
 
 @misc{jensen_reasoned_2017,
@@ -274,7 +274,7 @@ The value of this work is in critically examining the potential justifications f
 	year = {2015},
 	keywords = {Ethics, Distributive Justice, John Rawls, Rights, Internet Regulation},
 	pages = {57--64},
-	abbr = {Ethics Inf. \nTechnol.},
+	abbr = {Ethics Inf. Technol.},
 }
 
 @article{douglas_moral_2021,
@@ -325,7 +325,6 @@ The value of this work is in critically examining the potential justifications f
 	note = {arXiv: 2205.04358},
 	keywords = {Computer Science - Computers and Society},
 	arxiv = {2205.04358},
-	abbr = "arxiv"
 }
 
 @article{douglas_ethical_2022-1,
@@ -341,7 +340,7 @@ The value of this work is in critically examining the potential justifications f
 	month = feb,
 	year = {2022},
 	pages = {11},
-	abbr = {Ethics Inf. \nTechnol.},
+	abbr = {Ethics Inf. Technol.},
 }
 
 @article{sanderson_ai_2023,
@@ -360,7 +359,6 @@ The value of this work is in critically examining the potential justifications f
 	year = {2023},
 	note = {Conference Name: IEEE Transactions on Technology and Society},
 	pages = {171--187},
-	abbr = {IEEE-TTS},
 }
 
 @techreport{jensen_ethical_2019,
@@ -532,5 +530,4 @@ This deliverable also provides an overview of the history and state of the art o
   	journal={arXiv preprint arXiv:2304.08275},
   	year={2023},
 	arvix={2304.08275}
-	abbr={arxiv},
 }

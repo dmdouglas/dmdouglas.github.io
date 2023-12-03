@@ -2,7 +2,7 @@
   url: https://www.springer.com/journal/43681
   color: "#e7600e"
 
-"Ethics Inf. \nTechnol.":
+"Ethics Inf. Technol.":
   url: https://www.springer.com/journal/10676
   color: "#b9babc"
 
@@ -29,15 +29,3 @@
 "Comm. ACM":
   url: https://cacm.acm.org/
   color: "#3395b6"
-
-"First Monday":
-  url: https://firstmonday.org/ojs/index.php/fm/index
-  color: "#cc0000"
-
-"IEEE-TTS":
-  url: https://technologyandsociety.org/transactions/
-  color: "#00a1b7"
-
-"ArXiv":
-  url: https://arxiv.org
-  color: "#b31b1b"
