@@ -1,81 +1,57 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: SATORI
+description: Stakeholders Acting Together On the ethical impact assessment of Research and Innovation
+img: assets/img/ousa-chea-gKUC4TMhOiY-unsplash.jpg
 importance: 1
 category: work
-related_publications: true
----
+related_publications: koivisto_principles_2015, ming_ethics_2015, van_leersum_ethics_2015, shelley-egan_satori_2015, jensen_reasoned_2017, brey_models_2016, leinonen_roadmap_2017, callies_outline_2017
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/ousa-chea-gKUC4TMhOiY-unsplash.jpg" title="White microscope on top of black table" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Photo by <a href="https://unsplash.com/@cheaousa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ousa Chea</a> on <a href="https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+SATORI (Stakeholders Acting Together On the ethical impact assessment of Research and Innovation) was a four-year EU project to develop a common European framework for the ethical assessment of research and innovation activity. I contributed to the project during my time with the University of Twente in 2015 and 2016.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Further details about the project and the guidelines it developed are available at the [SATORI website](http://satoriproject.eu/).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The specific project reports that I contributed to and their authors/compilers are listed below in alphabetical order.
 
-{% raw %}
+[A Reasoned Proposal for Shared Approaches to Ethics Assessment in the European Context](http://satoriproject.eu/media/D4.1_Proposal_Ethics_Assessment_Framework.pdf).
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Compiled by Philip Jensen, Wessel Reijers, David Douglas, Faridun Sattarov, Agata Gurzawska, Alexandra Kapeller, Philip Brey (University of Twente); Rok Benčin (Scientific Research Centre of the Slovenian Academy of Sciences and Arts); Zuzanna Warso (Helsinki Foundation for Human Rights); Robert Braun (Institute for Advanced Studies, Vienna).
 
-{% endraw %}
+[Ethics Assessment in Different Countries: China](http://satoriproject.eu/media/4.b-Country-report-China.pdf).
+
+Written by Xin Ming, David Douglas, Agata Gurzawska, Philip Brey (University of Twente).
+
+[Ethics Assessment in Different Fields: Medical and Life Sciences](http://satoriproject.eu/media/2.c-Medical-Life-sciences.pdf).
+
+Written by Karin van Leersum, David Douglas (University of Twente).
+
+[Ethical Assessment of Research and Innovation: A Comparative Analysis of Practices and Institutions in the EU and Selected Other Countries](http://satoriproject.eu/media/D1.1_Ethical-assessment-of-RI_a-comparative-analysis.pdf).
+
+Compiled by Clare Shelley-Egan (Trilateral Research & Consulting); Philip Brey (University of Twente); Rowena Rodrigues (Trilateral Research & Consulting), David Douglas, Agata Gurzawska (University of Twente); Lise Bitsch (Danish Board of Technology Foundation); David Wright, Kush Wadhwa (Trilateral Research & Consulting).
+
+[Models for Ethics Assessment and Guidance in Higher Education](http://satoriproject.eu/media/D4.1_Annex_5_Universities.pdf).
+
+Written by Philip Brey, David Douglas, Alexandra Kapeller (University of Twente); Rok Benčin (Scientific Research Centre of the Slovenian Academy of Sciences and Arts); Daniela Ovadia (EUSJA); Doris Wolfslehner (ABC). 
+
+[Outline of an Ethics Assessment Framework](http://satoriproject.eu/media/D4.2_Outline_of_an_Ethics_Assessment_Framework.pdf).
+
+Compiled by Philip Jansen, Faridun Sattarov, David Douglas, Wessel Reijers, Agata Gurzawska, Alexandra Kapeller, Philip Brey (University of Twente); Ingrid Callies (UNESCO); Rok Benčin (Scientific Research Centre of the Slovenian Academy of Sciences and Arts); Zuzanna Warso (Helsinki Foundation for Human Rights).
+
+[Principles and Approaches in Ethics Assessment: Ethics and Risk](http://satoriproject.eu/media/1.h-Ethics-and-Risk1.pdf).
+
+Written by Raija Koivisto (Technical Research Centre of Finland (VTT)); David Douglas (University of Twente).
+
+[Roadmap towards Adoption of a Fully Developed Ethics Assessment Framework](http://satoriproject.eu/media/D4.3_SATORI_Roadmap.pdf).
+
+Written by Anna Leinonen, Raija Koivisto, Anu Tuominen (Technical Research Centre of Finland (VTT)); David Douglas, Agata Gurzawska, Philip Jensen, Alexander Kapeller, Philip Brey (University of Twente).
+
+
+
+
