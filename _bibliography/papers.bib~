@@ -4,7 +4,6 @@
 @article{douglas_social_2014,
 	title = {The {Social} {Goods} of {Information} {Networks}: {Complex} {Equality} and {Wu}'s {Separation} {Principles}},
 	volume = {19},
-	copyright = {Authors submitting a paper to First Monday automatically agree to confer a limited license to First Monday if and when the manuscript is accepted for publication. This license allows First Monday to publish a manuscript in a given issue. Authors have a choice of: 1. Dedicating the article to the public domain. This allows anyone to make any use of the article at any time, including commercial use. A good way to do this is to use the Creative Commons Public Domain Dedication Web form; see  http://creativecommons.org/license/publicdomain-2?lang=en . 2. Retaining some rights while allowing some use. For example, authors may decide to disallow commercial use without permission. Authors may also decide whether to allow users to make modifications (e.g. translations, adaptations) without permission. A good way to make these choices is to use a Creative Commons license. * Go to  http://creativecommons.org/license/ . * Choose and select a license. * What to do next — you can then e–mail the license html code to yourself. Do this, and then forward that e–mail to First Monday’s editors. Put your name in the subject line of the e–mail with your name and article title in the e–mail. Background information about Creative Commons licenses can be found at  http://creativecommons.org/about/licenses/ . 3. Retaining full rights, including translation and reproduction rights. Authors may use the statement: © Author 2014 All Rights Reserved. Authors may choose to use their own wording to reserve copyright. If you choose to retain full copyright, please add your copyright statement to the end of the article. Authors submitting a paper to First Monday do so in the understanding that Internet publishing is both an opportunity and challenge. In this environment, authors and publishers do not always have the means to protect against unauthorized copying or editing of copyright–protected works.},
 	issn = {13960466},
 	shorttitle = {The social goods of information networks},
 	url = {http://firstmonday.org/ojs/index.php/fm/article/view/4652},
@@ -19,6 +18,7 @@
 	year = {2014},
 	keywords = {Distributive Justice, Michael Walzer, Information Networks, Internet Regulation, Network Regulation},
 	website = {http://firstmonday.org/ojs/index.php/fm/article/view/4652},
+	abbr = "First Monday",
 }
 
 @article{douglas_making_2012,
@@ -51,6 +51,7 @@ withholding these particular rights from users. However, the social disutility c
 	keywords = {Software, Free Software, Utilitarianism, Digital Divide, Inequality},
 	pages = {485--502},
 	abbr = {Sci Eng Ethics},
+	website = {https://link.springer.com/article/10.1007/s11948-010-9224-4},
 }
 
 @article{douglas_bundle_2011,
@@ -66,6 +67,7 @@ withholding these particular rights from users. However, the social disutility c
 	keywords = {Software, Free Software, Software Licensing, Copyleft, Rights},
 	pages = {185--197},
 	abbr = {Ethics Inf. Technol.},
+	website = {https://link.springer.com/article/10.1007/s10676-010-9229-3},
 }
 
 @misc{douglas_pre-owned_2013,
@@ -90,7 +92,9 @@ withholding these particular rights from users. However, the social disutility c
 	month = jun,
 	year = {2015},
 	keywords = {Risk, Ethics, SATORI},
+	abstract = {This report aims to study and discuss the ethical aspects of risk assessment and management, and how risk plays a role in the ethical assessment of research. It introduces the central concepts – risk and ethics – and examines the different phases of the risk management process from the ethical point of view. It also describes the ethical principles used to determine whether the risks of conducting research are acceptable. The increasing complexity of systems, products and services due to new technological and social developments is making risk assessment and management more challenging and emphasizes the need to consider ethical issues systematically in the risk assessment process.},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/1.h-Ethics-and-Risk1.pdf},
 }
 
 @misc{ming_ethics_2015,
@@ -102,7 +106,9 @@ withholding these particular rights from users. However, the social disutility c
 	month = jun,
 	year = {2015},
 	keywords = {Research Ethics, China, Chinese Law, SATORI},
+	abstract = {The aim of this report is to analyse the existing structures and agents for the ethical assessment of research and innovation in China, both for the public and the private sector. The report will analyse how the national government has put into place organisational structures, laws, policies and procedures for ethical assessment, how both publicly funded and private research and innovation systems address ethical issues in research and innovation, and how ethical assessment plays a role in the activities of professional groups and associations for research and innovation and of civil society organisations (CSOs).},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/4.b-Country-report-China.pdf},
 }
 
 @misc{van_leersum_ethics_2015,
@@ -114,7 +120,9 @@ withholding these particular rights from users. However, the social disutility c
 	month = jun,
 	year = {2015},
 	keywords = {Ethics, Medical Ethics, Medicine, SATORI, Life Sciences},
+	abstract = {This is a report on ethics assessment of medical and life sciences. Ethics assessment concerns the question what is good and bad or right and wrong about a certain technology or practice. Such assessments help organisations determine to what extent ethical standards should influence decision making at both organisational and individual levels. The aim of this report is to cover both the academic and non-academic traditions of ethical assessment, and the institutionalisation of ethics assessment in different types of organisations, including national and international standards and legislation. This report is a part of a larger study of the SATORI project.},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/2.c-Medical-Life-sciences.pdf},
 }
 
 @misc{shelley-egan_satori_2015,
@@ -126,7 +134,9 @@ withholding these particular rights from users. However, the social disutility c
 	author = {Shelley-Egan, Clare and Brey, Philip and Rodrigues, Rowena and Douglas, David and Gurzawska, Agata and Bitsch, Lise and Wright, David and Wadhwa, Kush},
 	month = jun,
 	year = {2015},
+	abstract = {This deliverable offers a detailed picture of the de facto ethics assessment landscape in the European Union and other countries with regard to approaches, practices and institutions for ethics assessment across scientific fields, different kinds of organisations that carry out assessment, and different countries. The deliverable is based on in-depth study of ethics assessment in ten countries in the European Union, and the United States (US) and China, as well as studies of particular organisations in other EU countries. This main report summarises the results of work package 1 of the SATORI project and provides a comparative analysis of ethics assessment in the scientific fields, organisations and countries investigated.},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/D1.1_Ethical-assessment-of-RI_a-comparative-analysis.pdf},
 }
 
 @article{douglas_doxing:_2016,
@@ -148,6 +158,7 @@ withholding these particular rights from users. However, the social disutility c
 	pages = {199--210},
 	pdf = {douglas_2016_doxing.pdf},
 	abbr = {Ethics Inf. Technol.},
+	website = {http://link.springer.com/article/10.1007/s10676-016-9406-0},
 }
 
 @misc{jensen_reasoned_2017,
@@ -158,7 +169,9 @@ withholding these particular rights from users. However, the social disutility c
 	author = {Jensen, Philip and Reijers, Wessel and Douglas, David and Sattarov, Faridun and Gurzawska, Agata and Kapeller, Alexandra and Brey, Philip and Benčin, Rok and Warso, Zuzanna and Braun, Robert},
 	month = may,
 	year = {2017},
+	abstract= {This report presents a comprehensive proposal for a common ethics assessment framework for research and innovation (R&I) in the European Union member states. It details recommendations for good practices for ethics assessment, which includes the development of ethics assessment units and the protocols of these units. More specifically, the report presents a general toolkit for ethics assessment of R&I, as well as specialised tools and toolkits for specific types of organizations that deal with ethics assessment, and for different scientific fields.},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/D4.1_Proposal_Ethics_Assessment_Framework.pdf},	
 }
 
 @misc{brey_models_2016,
@@ -167,7 +180,9 @@ withholding these particular rights from users. However, the social disutility c
 	journal = {SATORI D4.1 Annex 5},
 	author = {Brey, Philip and Douglas, David and Kapeller, Alexandra and Benčin, Rok and Ovadia, Daniela and Wolfslehner, Doris},
 	year = {2016},
+	abstract = {This report will investigate best practices for developing ethics assessment and guidance in universities, through research ethics committees (RECs), institutional policies, scientific integrity boards, teaching and training, and other means. The objective is to identify different means by which universities may promote and regulate consideration of ethical aspects of research and innovation within their institutions, and to make recommendations on the means that are most adequate and the ways in which they may be implemented. The report subsequently considers goals for ethics at universities, pathways for advancing ethics at universities, ethics codes and protocols, scientific integrity boards and codes, ethics assessment and research ethics committees, and ethics teaching and training. It ends with a summary of the recommendations of earlier sections.},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/D4.1_Annex_5_Universities.pdf},
 }
 
 @misc{leinonen_roadmap_2017,
@@ -176,7 +191,10 @@ withholding these particular rights from users. However, the social disutility c
 	journal = {SATORI D4.3},
 	author = {Leinonen, Anna and Koivisto, Raija and Tuominen, Anu and Douglas, David and Gurzawska, Agata and Jansen, Philip and Kapeller, Alexandra and Brey, Philip},
 	year = {2017},
+	abstract = {The aim of the SATORI roadmap process was to work out how the SATORI ethics
+assessment framework can be implemented in practice. The timespan of the roadmap was set at 10 years. To begin, a vision of a future in which the SATORI framework is implemented was formulated. Theories about the implementation of new social practices were subsequently studied, and a model for the implementation of the SATORI framework was constructed. This model was then used as the basis for identifying the steps (or outcomes) that need to be taken in order to realise the vision. Finally, these steps were fleshed out by listing recommendations and associated actions that need to be taken by various stakeholder groups that are involved in ethics assessment of research and innovation.},
 	abbr = {SATORI},
+	website = {https://satoriproject.eu/media/D4.3_SATORIRoadmap.pdf},
 }
 
 @misc{callies_outline_2017,
@@ -186,6 +204,7 @@ withholding these particular rights from users. However, the social disutility c
 	author = {Callies, Ingrid and Jansen, Philip and Reijers, Wessel and Douglas, David and Gurzawska, Agata and Kapeller, Alexandra and Brey, Philip and Benčin, Rok and Warso, Zuzanna},
 	year = {2017},
 	abbr = {SATORI},
+	website = {http://satoriproject.eu/media/D4.2_Outline_of_an_Ethics_Assessment_Framework.pdf},
 }
 
 @article{douglas_dual-use_2017,
@@ -212,6 +231,8 @@ The value of this work is in critically examining the potential justifications f
 	author = {Douglas, David M. and Santanna, José Jair and Schmidt, Ricardo de O. and Granville, Lisandro Z. and Pras, Aiko},
 	year = {2017},
 	keywords = {Internet, Civil Disobedience, DDoS, Booters},
+	abbr = {JICES},
+	website = {https://www.emerald.com/insight/content/doi/10.1108/JICES-09-2016-0033/full/html},
 }
 
 @article{douglas_should_2018,
@@ -325,6 +346,7 @@ The value of this work is in critically examining the potential justifications f
 	note = {arXiv: 2205.04358},
 	keywords = {Computer Science - Computers and Society},
 	arxiv = {2205.04358},
+	abbr = "arXiv"
 }
 
 @article{douglas_ethical_2022-1,
@@ -359,6 +381,8 @@ The value of this work is in critically examining the potential justifications f
 	year = {2023},
 	note = {Conference Name: IEEE Transactions on Technology and Society},
 	pages = {171--187},
+	abbr = {IEEE-TTS},
+	website = {https://ieeexplore.ieee.org/abstract/document/10071542},	
 }
 
 @techreport{jensen_ethical_2019,
@@ -393,6 +417,7 @@ This deliverable also provides an overview of the history and state of the art o
 	year = {2019},
 	pages = {22--24},
 	abbr = {Comm. ACM},
+	website = {https://doi.org/10.1145/3368091},	
 }
 
 @inproceedings{sanderson_towards_2022,
@@ -406,6 +431,7 @@ This deliverable also provides an overview of the history and state of the art o
 	month = dec,
 	year = {2022},
 	pages = {5076--5081},
+	website = {https://ieeexplore.ieee.org/abstract/document/10021121}, 
 }
 
 @article{duenser_who_2023,
@@ -421,6 +447,7 @@ This deliverable also provides an overview of the history and state of the art o
 	year = {2023},
 	pages = {1--8},
 	abbr = {IEEE Intell. Syst.},
+	website = {https://ieeexplore.ieee.org/abstract/document/10273868},
 }
 
 @incollection{kinkead_network_2020,
@@ -450,7 +477,9 @@ This deliverable also provides an overview of the history and state of the art o
   	author={Douglas, David M},
   	journal={UniSA Student Law Review},
   	volume={3},
-  	year={2018}
+  	year={2018},
+	abstract = {This commentary responds to the primary article by Åste Corbridge in this volume entitled ‘Responding to Doxing in Australia: Towards a Right to Informational Self-Determination?’. It discusses the way that concepts of ‘personal information’ and ‘identification information’ from the Privacy Act 1988 (Cth) correspond with the seven crucial types of identity knowledge identified by Gary T. Marx and argues that these statutory definitions should be expanded to offer better protection to victims of doxing in Australia.},
+	website = {https://ojs.unisa.edu.au/index.php/uslr/article/view/1491},
 }
 
 @article{gertz2019cyberwar,
@@ -473,6 +502,7 @@ This deliverable also provides an overview of the history and state of the art o
 	physical exposure to the world. We argue that the phenomenological aspects of cyberwar operations offer a 
 	compelling justification for prohibiting cyberwar in the same manner in which biological and chemical warfare 
 	are prohibited.},
+	abbr = {Delphi},
 }
 
 @article{jansen2016reasoned,
@@ -481,6 +511,8 @@ This deliverable also provides an overview of the history and state of the art o
   	journal={SATORI},
   	year={2016},
   	publisher={European Commission},
+	abstract={This report presents a comprehensive proposal for a common ethics assessment framework for research and innovation (R&I) in the European Union member states. It details recommendations for good practices for ethics assessment, which includes the development of ethics assessment units and the protocols of these units. More specifically, the report presents a general toolkit for ethics assessment of R&I, as well as specialised tools and toolkits for specific types of organizations that deal with ethics assessment, and for different scientific fields.},
+	website = {https://satoriproject.eu/media/D4.1_Proposal_Ethics_Assessment_Framework.pdf},
 	abbr = {SATORI},
 }
 
@@ -515,19 +547,11 @@ This deliverable also provides an overview of the history and state of the art o
 	arvix={2111.09478}
 }
 
-@article{callies2018outline,
-  	title={Outline of an ethics assessment framework},
-  	author={Callies, Ingrid and Jansen, P and Reijers, W and Douglas, D and Gurzawska, A and Kapeller, A and Brey, P and Ben{\v{c}}in, R and Warso, Z},
-  	journal={SATORI Deliverable},
-  	volume={4},
-  	year={2018},
-	abbr = {SATORI},
-}
-
 @article{sanderson2023implementing,
   	title={Implementing Responsible AI: Tensions and Trade-Offs Between Ethics Aspects},
   	author={Sanderson, Conrad and Douglas, David and Lu, Qinghua},
   	journal={arXiv preprint arXiv:2304.08275},
   	year={2023},
-	arvix={2304.08275}
+	arxiv={2304.08275},
+	abbr={arXiv},
 }
