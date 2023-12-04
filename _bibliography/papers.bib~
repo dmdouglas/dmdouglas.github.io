@@ -191,8 +191,7 @@ withholding these particular rights from users. However, the social disutility c
 	journal = {SATORI D4.3},
 	author = {Leinonen, Anna and Koivisto, Raija and Tuominen, Anu and Douglas, David and Gurzawska, Agata and Jansen, Philip and Kapeller, Alexandra and Brey, Philip},
 	year = {2017},
-	abstract = {The aim of the SATORI roadmap process was to work out how the SATORI ethics
-assessment framework can be implemented in practice. The timespan of the roadmap was set at 10 years. To begin, a vision of a future in which the SATORI framework is implemented was formulated. Theories about the implementation of new social practices were subsequently studied, and a model for the implementation of the SATORI framework was constructed. This model was then used as the basis for identifying the steps (or outcomes) that need to be taken in order to realise the vision. Finally, these steps were fleshed out by listing recommendations and associated actions that need to be taken by various stakeholder groups that are involved in ethics assessment of research and innovation.},
+	abstract = {The aim of the SATORI roadmap process was to work out how the SATORI ethics assessment framework can be implemented in practice. The timespan of the roadmap was set at 10 years. To begin, a vision of a future in which the SATORI framework is implemented was formulated. Theories about the implementation of new social practices were subsequently studied, and a model for the implementation of the SATORI framework was constructed. This model was then used as the basis for identifying the steps (or outcomes) that need to be taken in order to realise the vision. Finally, these steps were fleshed out by listing recommendations and associated actions that need to be taken by various stakeholder groups that are involved in ethics assessment of research and innovation.},
 	abbr = {SATORI},
 	website = {https://satoriproject.eu/media/D4.3_SATORIRoadmap.pdf},
 }
@@ -503,17 +502,6 @@ This deliverable also provides an overview of the history and state of the art o
 	compelling justification for prohibiting cyberwar in the same manner in which biological and chemical warfare 
 	are prohibited.},
 	abbr = {Delphi},
-}
-
-@article{jansen2016reasoned,
-  	title={A reasoned proposal for shared approaches to ethics assessment in the European context},
-  	author={Jansen, Philip and Reijers, Wessel and Douglas, David and Sattarov, Faridun and Gurzawska, Agata and Kapeller, Alexandra and Brey, Philip and Ben{\v{c}}in, Rok and Warso, Zuzanna and Braun, Robert},
-  	journal={SATORI},
-  	year={2016},
-  	publisher={European Commission},
-	abstract={This report presents a comprehensive proposal for a common ethics assessment framework for research and innovation (R&I) in the European Union member states. It details recommendations for good practices for ethics assessment, which includes the development of ethics assessment units and the protocols of these units. More specifically, the report presents a general toolkit for ethics assessment of R&I, as well as specialised tools and toolkits for specific types of organizations that deal with ethics assessment, and for different scientific fields.},
-	website = {https://satoriproject.eu/media/D4.1_Proposal_Ethics_Assessment_Framework.pdf},
-	abbr = {SATORI},
 }
 
 @misc{ibarra2020machine,
