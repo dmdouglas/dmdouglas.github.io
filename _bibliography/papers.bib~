@@ -321,7 +321,7 @@ The value of this work is in critically examining the potential justifications f
 	dimensions = {true},
 }
 
-@article{douglas_ethical_2022,
+@article{douglas_ethical_2023,
 	title = {Ethical risks of {AI}-designed products: bespoke surgical tools as a case study},
 	issn = {2730-5961},
 	shorttitle = {Ethical risks of {AI}-designed products},
@@ -332,8 +332,9 @@ The value of this work is in critically examining the potential justifications f
 	urldate = {2022-09-26},
 	journal = {AI and Ethics},
 	author = {Douglas, David M. and Lacey, Justine and Howard, David},
-	month = sep,
-	year = {2022},
+	volume = {3},
+	number = {4},
+	year = {2023},
 	keywords = {Artificial Intelligence, Computational Design, Evolutionary Algorithms, Ethical Risk Analysis, Technical Risk},
 	abbr = {AI Ethics},
 	dimensions = {true},
@@ -353,9 +354,11 @@ The value of this work is in critically examining the potential justifications f
 	keywords = {Computer Science - Computers and Society},
 	arxiv = {2205.04358},
 	abbr = {arXiv},
+	doi = {10.1109/BigData55660.2022.10021121},
+	dimensions = {true},
 }
 
-@article{douglas_ethical_2022-1,
+@article{douglas_ethical_2022,
 	title = {Ethical responsibility and computational design: bespoke surgical tools as an instructive case study},
 	volume = {24},
 	issn = {1572-8439},
@@ -470,8 +473,12 @@ This deliverable also provides an overview of the history and state of the art o
 	publisher = {Edinburgh University Press},
 	author = {Kinkead, Dave and Douglas, David M.},
 	editor = {Macnish, Kevin and Galliott, Jai},
+	abstract = {In this chapter, Kinkead and Douglas draw on the history of democracies to see how big data and its use with social media sites introduces new challenges to the contemporary marketplace of ideas. They note that traditionally one could narrowcast a tailored message with some impunity, but limited effect, while broadcasts (with larger impact) were open to examination by the public. Microtargeted political advertising now allows for the narrowcast message to be tweaked and directed on a scale never before seen.},
 	year = {2020},
 	pages = {119--133},
+	website = {https://academic.oup.com/edinburgh-scholarship-online/book/37474/chapter-abstract/331652108?redirectedFrom=fulltext},
+	doi = {10.3366/edinburgh/9781474463522.003.0009},
+	dimensions = {true},
 }
 
 @incollection{maguire2015ethical,
@@ -480,7 +487,9 @@ This deliverable also provides an overview of the history and state of the art o
   	booktitle={Ethical Values and the Integrity of the Climate Change Regime},
   	pages={3--15},
   	year={2015},
-  	publisher={Ashgate Publishing}
+  	publisher={Ashgate Publishing},
+	abstract = {This chapter introduces the Comprehensive Integrity Framework as it applies to institutions, and has employed that framework to map the key factors and concepts at work in the global carbon integrity system, including reference to the global integrity regime and to one of its sub-institutions. It defines a number of key terms, including the Public Institutional Justification (PIJ), consistency-integrity, coherence-integrity and context-integrity. An institution has comprehensive-integrity if its activities, values and ethics, internal organization and external relations accord with its PIJ. Social values outside the institution can also impact upon the institution's selection of its PIJ and its capacity to live up its PIJ. The integrity system is therefore constituted by the combination of the institution's coherence-integrity and context-integrity. The framework to the global climate regime complex as a whole, framed around the UN Framework Convention on Climate Change (UNFCCC) and the framework in analysing one illustrative sub-institution nested within the UNFCCC the Clean Development Mechanism (CDM).},
+	website = {https://www.taylorfrancis.com/chapters/edit/10.4324/9781315580302-2/ethical-values-global-carbon-integrity-system-rowena-maguire-david-douglas-vesselin-popovski-hugh-breakey?context=ubx&refId=8410143f-ba5b-4be0-9802-2cd8887ace6a},
 }
 
 @article{douglas2018personal,
@@ -514,6 +523,7 @@ This deliverable also provides an overview of the history and state of the art o
 	compelling justification for prohibiting cyberwar in the same manner in which biological and chemical warfare 
 	are prohibited.},
 	abbr = {Delphi},
+	website = {https://delphi.lexxion.eu/article/delphi/2019/2/5},
 }
 
 @misc{ibarra2020machine,
@@ -523,6 +533,10 @@ This deliverable also provides an overview of the history and state of the art o
   	number={EP205485},
   	year={2020},
 	abbr = {CSIRO},
+	website = {https://publications.csiro.au/publications/publication/PIcsiro:EP205485},
+	doi = {10.25919/5f8dd4294a47f},
+	abstract = {Most of the literature on using machine learning (ML) systems in criminal investigations concerns whether using these systems undermines public trust in law enforcement. A related concern is whether investigators themselves should trust these systems. But what do we really mean by ‘trust’? Many methods have been developed for promoting fairness, transparency, and accountability in the predictions made by ML systems, however a technical approach to these problems needs to be accompanied by a human centred approach to user trust. In order to address social, ethical and practical issues these systems need to present information in such a way that the people that use them can make balanced decisions on whether or not they should trust them. In this report we use the lens of user experience (UX) and social science to look at how the role responsibilities and accountability of criminal justice experts may be affected by the use of ML systems in criminal investigations. How will these systems be used by these experts and what is the effect that may have in this regulated and legislated environment? To understand this, we explore the concepts of responsibility, accountability and transparency in the context of criminal investigations in parallel to the various levels of automation and AI assistance ranging from full human control to full automation. We discuss why ML systems used in criminal investigations can be considered ‘human-in-the-loop’ forms of automation, where the systems offer decision support to users. We also explore the issues connected with calibrating trust in an ML system, describing the characteristics of automated systems that affect the ability of users to determine if their trust in a system is legitimate, and the risks of misusing, rejecting, and abusing automation by experts operating in criminal justice settings. We highlight the risks connected with using ML systems, and how these risks might affect the use of these systems in criminal justice contexts. The report summarises additional areas of responsibility across the ecosystem of machine learning systems in a criminal context including: the responsibility of law enforcement institutions to train their workforce in the skills needed to use data and insights from ML systems; the responsibility of specific departments in these organisations to examine the intended use of such systems, adjusting their internal policies accordingly and ensuring their employees are alert to how this affects their responsibility or accountability; and the responsibility of technologists to be transparent about the system’s trustworthiness, and to allow experts to accurately calibrate their trust in the system by closely observing and responding to how they interpret and use different types of predictive data in investigative processes.},
+	dimensions = {true},
 }
 
 @inproceedings{lu2022software,
@@ -545,7 +559,9 @@ This deliverable also provides an overview of the history and state of the art o
 	limited guidance. To address these findings, we suggest a preliminary list of patterns to provide 
 	operationalised guidance for developing responsible AI systems.},
 	arvix={2111.09478},
-	abbr={arXiv}
+	abbr={arXiv},
+	doi = {10.1109/ICSE-SEIP55303.2022.9793864},
+	dimensions = {true},
 }
 
 @article{sanderson2023implementing,
@@ -553,6 +569,9 @@ This deliverable also provides an overview of the history and state of the art o
   	author={Sanderson, Conrad and Douglas, David and Lu, Qinghua},
   	journal={arXiv preprint arXiv:2304.08275},
   	year={2023},
+	abstract = {Many sets of ethics principles for responsible AI have been proposed to allay concerns about misuse and abuse of AI/ML systems. The underlying aspects of such sets of principles include privacy, accuracy, fairness, robustness, explainability, and transparency. However, there are potential tensions between these aspects that pose difficulties for AI/ML developers seeking to follow these principles. For example, increasing the accuracy of an AI/ML system may reduce its explainability. As part of the ongoing effort to operationalise the principles into practice, in this work we compile and discuss a catalogue of 10 notable tensions, trade-offs and other interactions between the underlying aspects. We primarily focus on two-sided interactions, drawing on support spread across a diverse literature. This catalogue can be helpful in raising awareness of the possible interactions between aspects of ethics principles, as well as facilitating well-supported judgements by the designers and developers of AI/ML systems.},
 	arxiv={2304.08275},
 	abbr={arXiv},
+	doi = {10.1109/IJCNN54540.2023.10191274},
+	dimensions = {true},
 }
