@@ -4,7 +4,7 @@ title: doxing
 description: Examining the ethics of doxing
 img: assets/img/niv-singer-LkD_IH8_K8k-unsplash.jpg
 importance: 2
-category: work
+category: Internet
 related_publications: douglas_doxing:_2016, douglas2018personal, douglas_doxing_2020
 ---
 

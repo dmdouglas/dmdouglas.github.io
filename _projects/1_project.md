@@ -4,7 +4,7 @@ title: SATORI
 description: Stakeholders Acting Together On the ethical impact assessment of Research and Innovation
 img: assets/img/ousa-chea-gKUC4TMhOiY-unsplash.jpg
 importance: 1
-category: work
+category: responsible innovation
 related_publications: koivisto_principles_2015, ming_ethics_2015, van_leersum_ethics_2015, shelley-egan_satori_2015, jensen_reasoned_2017, brey_models_2016, leinonen_roadmap_2017, callies_outline_2017
 
         {% include figure.html path="assets/img/ousa-chea-gKUC4TMhOiY-unsplash.jpg" title="White microscope on top of black table" class="img-fluid rounded z-depth-1" %}

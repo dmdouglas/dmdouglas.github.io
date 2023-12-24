@@ -10,7 +10,7 @@ related_publications: douglas_doxing:_2016, douglas2018personal, douglas_doxing_
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/ousa-chea-gKUC4TMhOiY-unsplash.jpg" title="Black CCTV camera on wall" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/niv-singer-LkD_IH8_K8k-unsplash.jpg" title="Black CCTV camera on wall" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
