@@ -3,7 +3,7 @@ layout: page
 title: The Ethics of Software Ownership
 description: Examining the ethical justifications for property rights over software
 img: assets/img/markus-spiske-KeFyYzxqmH0-unsplash.jpg
-importance: 3
+importance: 4
 category: work
 giscus_comments: false
 related_publications: douglas_social_2011, douglas_bundle_2011, douglas2011software
