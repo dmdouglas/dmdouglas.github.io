@@ -5,7 +5,7 @@ permalink: /projects/
 description: My research projects.
 nav: true
 nav_order: 2
-display_categories: responsible innovation, Internet, computer ethics
+display_categories: [responsible innovation, Internet, computer ethics]
 horizontal: false
 
 
