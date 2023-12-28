@@ -4,7 +4,7 @@ title: Distributive Justice and the Internet
 description: Applying theories of distributive justice to the Internet
 img: assets/img/thomas-jensen-ISG-rUel0Uw-unsplash.jpg
 importance: 3
-category: Internet
+category: Internet Ethics
 related_publications: douglas_social_2014, douglas_towards_2015 
 ---
 

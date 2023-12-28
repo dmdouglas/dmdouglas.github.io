@@ -3,7 +3,7 @@ layout: page
 title: Responsible Research Automation
 description: Examining researchers' views on automating science
 img: assets/img/testalize-me-igSTmAWAW3s-unsplash.jpg
-importance: 2
+importance: 1
 category: Responsible Innovation
 related_publications: 
 ---

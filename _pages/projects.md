@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: My research projects.
+description: My research projects and projects I have participated in.
 nav: true
 nav_order: 2
-display_categories: [responsible innovation, Internet, computer ethics]
+display_categories: [Responsible Innovation, Internet Ethics, Computer Ethics]
 horizontal: false
 ---
 
