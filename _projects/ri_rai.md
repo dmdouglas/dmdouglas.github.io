@@ -19,7 +19,7 @@ related_publications: duenser_who_2023, sanderson_towards_2022, sanderson_ai_202
 
 From 2020 to 2023, I was part of a multidisciplinary research project at the CSIRO investigating how AI ethics principles are used in practice by the developers and users of AI systems. Insights from interviews with researchers who develop or use AI in their work was used to inform the development of a set of design patterns AI developers can use to develop responsible AI systems.
 
-As part of this broad project, I conducted researcher interviews, helped to analyse the interview transcripts, and contributed to the published research papers listed below. I contributed to conceptual work on what 'trust' means in the context of AI.
+As part of this broad project, I conducted researcher interviews, helped to analyse the interview transcripts, and contributed to the published research papers listed below. I also contributed to conceptual work on what 'trust' means in the context of AI.
 
 The official project page can be found here: <a href="https://research.csiro.au/ri/an-operationalised-guideline-for-responsible-ai/">An Operationalised Guidelines for Responsible AI (CSIRO)</a>.
 
