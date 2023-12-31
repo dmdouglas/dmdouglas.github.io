@@ -10,7 +10,7 @@ related_publications: duenser_who_2023, sanderson_towards_2022, sanderson_ai_202
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/RickPayne-and-team-Aiis-Banner-640x309.png" title="Seventeen multicoloured post-it notes are roughly positioned in a strip shape on a white board. Each one of them has a hand drawn sketch in pen on them, answering the prompt on one of the post-it notes "AI is...." The sketches are all very different, some are patterns representing data, some are cartoons, some show drawings of things like data centres, or stick figure drawings of the people involved." class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/RickPayne-and-team-Aiis-Banner-640x309.png" title="Seventeen multicoloured post-it notes are roughly positioned in a strip shape on a white board. Each one of them has a hand drawn sketch in pen on them, answering the prompt on one of the post-it notes 'AI is....' The sketches are all very different, some are patterns representing data, some are cartoons, some show drawings of things like data centres, or stick figure drawings of the people involved." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
