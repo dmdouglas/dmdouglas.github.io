@@ -5,7 +5,7 @@ description: Investigating how AI ethical principles are used in practice
 img: assets/img/RickPayne-and-team-Aiis-Banner-640x309.png
 importance: 3
 category: Responsible Innovation
-related_publications: duenser_who_2023, sanderson_towards_2022, sanderson_ai_2023, sanderson_towards_2022, sanderson2023implementing, lu2022software
+related_publications: duenser_who_2023, sanderson_towards_2022, sanderson_ai_2023, sanderson_towards_2022, sanderson2023implementing, lu2022software, sanderson2024resolving
 ---
 
 <div class="row">
