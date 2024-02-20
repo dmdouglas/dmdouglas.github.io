@@ -9,6 +9,6 @@ In this paper I examine Jeremy Bentham’s arguments in favour of patents in lig
 
 This paper was published in *Crossroads: An Interdisciplinary Journal for the Study of History, Philosophy, Religion and Classics* in 2009, where it received 3rd place in the Annual *Crossroads* Postgraduate Short Essay Competition.
 
-The PDF of this paper is available here: [<i class="fas fa-download"></i> beneficial_monopoly.pdf]({{"/papers/beneficial_monopoly.pdf" | prepend: full_base_url }}) 
+The PDF of this paper is available here: [<i class="fas fa-download"></i> beneficial_monopoly.pdf]({{"https://dmdouglas.github.io/assets/pdf/douglas_2009_a-beneficial-monopoly.pdf"}}) 
 
 
