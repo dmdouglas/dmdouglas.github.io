@@ -2,7 +2,7 @@
 layout: post
 title:  "A Beneficial Monopoly: Jeremy Bentham on Monopolies and Patents"
 date:   2009-01-01 18:12:35 +1000
-categories: papers
+categories: papers Bentham utilitarianism monopoly patents intellectual-property
 ---
 
 In this paper I examine Jeremy Bentham’s arguments in favour of patents in light of his description of the five harms associated with monopolies. I find while these harms can be reduced by the limited duration and specific definition of patents, the existence of these harms means that a utilitarian (like Bentham) would have to support an alternative to patents if it produced the same positive results without the monopoly harms.
