@@ -6,11 +6,14 @@
 // Colors
 //$red-color:           #FF3636 !default;
 $red-color:           #BF616A !default;
-$red-color-dark:      #B71C1C !default;
+//$red-color-dark:      #B71C1C !default;
+$red-color-dark:      darken($red-color, 25%);
 //$orange-color:        #F29105 !default;
 $orange-color:        #D08770 !default;
-$blue-color:          #0076df !default;
-$blue-color-dark:     #00369f !default;
+//$blue-color:          #0076df !default;
+$blue-color:          #81A1C1 !default;
+//$blue-color-dark:     #00369f !default;
+$blue-color-dark:     #5E81AC !default;
 //$cyan-color:          #2698BA !default;
 $cyan-color:          #88C0D0 !default;
 $light-cyan-color:    lighten($cyan-color, 25%);
@@ -19,13 +22,16 @@ $green-color-lime:    #B7D12A !default;
 $green-color-dark:    #009f06 !default;
 $green-color-light:   #ddffdd !default;
 $green-color-bright:  #11D68B !default;
-$purple-color:        #B509AC !default;
+$purple-color:        #B48EAD !default;
+//$purple-color:        #B509AC !default;
 $light-purple-color:  lighten($purple-color, 25%);
 $pink-color:          #f92080 !default;
 $pink-color-light:    #ffdddd !default;
-$yellow-color:        #efcc00 !default;
+$yellow-color:        #EBCB8B !default;
+//$yellow-color:        #efcc00 !default;
 
-$grey-color:          #828282 !default;
+//$grey-color:          #828282 !default;
+$grey-color:          #4C566A;
 //$grey-color-light:    lighten($grey-color, 40%);
 $grey-color-light:    #ECEFF4;
 //$grey-color-dark:     #1C1C1D;
