@@ -6,7 +6,8 @@
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
-  --global-text-color-light: #{$grey-color};
+  //--global-text-color-light: #{$grey-color};
+  --global-text-color-light: #{
   --global-theme-color: #{$blue-color};
   --global-hover-color: #{$blue-color};
   --global-hover-text-color: #{$white-color};
@@ -61,7 +62,7 @@ html[data-theme='dark'] {
   --global-footer-link-color: #{$black-color};
   --global-distill-app-color: #{$grey-color-light};
   //--global-divider-color: #424246;
-  --global-divider-color: #D8DEE9
+  --global-divider-color: #D8DEE9;
   --global-card-bg-color: #{$grey-900};
 
   --global-tip-block: #42b983;
