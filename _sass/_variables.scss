@@ -17,7 +17,7 @@ $blue-color-dark:     #5E81AC !default;
 //$cyan-color:          #2698BA !default;
 $cyan-color:          #88C0D0 !default;
 $light-cyan-color:    lighten($cyan-color, 25%);
-$green-color:         #00ab37 !default;
+$green-color:         #A3BE8C !default;
 $green-color-lime:    #B7D12A !default;
 $green-color-dark:    #009f06 !default;
 $green-color-light:   #ddffdd !default;
@@ -31,20 +31,20 @@ $yellow-color:        #EBCB8B !default;
 //$yellow-color:        #efcc00 !default;
 
 //$grey-color:          #828282 !default;
-$grey-color:          #4C566A !default;
+$grey-color:          #434C5E !default;
 //$grey-color-light:    lighten($grey-color, 40%);
 $grey-color-light:    #ECEFF4;
 //$grey-color-dark:     #1C1C1D;
 $grey-color-dark:     #2E3440;
-$grey-900:            #212529;
+$grey-900:            #4C566A;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
-$code-bg-color-dark:  #2c3237 !default;
+$code-bg-color-light:     rgba($purple-color, 0.05);
+$code-bg-color-dark:      #3B4252 !default;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
