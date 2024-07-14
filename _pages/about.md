@@ -29,4 +29,3 @@ I completed a PhD in philosophy at the University of Queensland in November 2011
 [<i class="fas fa-link"></i> PhilPeople profile](https://philpeople.org/profiles/david-m-douglas)
 
 [<i class="fab fa-researchgate"></i> ResearchGate profile](https://www.researchgate.net/profile/David-Douglas)
-

@@ -3,7 +3,6 @@ layout: page
 title: Distributive Justice and the Internet
 description: Applying theories of distributive justice to the Internet
 img: assets/img/thomas-jensen-ISG-rUel0Uw-unsplash.jpg
->>>>>>> a752b4f4 (Added distributive justice project)
 importance: 3
 category: Internet Ethics
 related_publications: douglas_social_2014, douglas_towards_2015 
@@ -19,4 +18,3 @@ related_publications: douglas_social_2014, douglas_towards_2015
 </div>
 
 Between 2013 and 2015 I worked on papers that applied theories of distributive justice (specially, Michael Walzer's complex equality and John Rawls' justice as fairness) to issues of Internet regulation. 
-
