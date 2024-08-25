@@ -1,9 +1,59 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"AI Ethics":
+  url: https://link.springer.com/journal/43681
+  color: "#e7600e"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Ethics Inf. Technol.":
+  url: https://link.springer.com/journal/10676
+  color: "#b9babc"
 
-"Vision":
-  color: "#009f36"
+"Sci Eng Ethics":
+  url: https://link.springer.com/journal/11948
+  color: "#1c2340"
+
+"SATORI":
+  url: https://satoriproject.eu/
+  color: "#f7a600"
+
+"SIENNA":
+  url: https://www.sienna-project.eu/
+  color: "#ff7f00"
+
+"IEEE Intell. Syst.":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9670
+  color: "#14303e"
+
+"CSIRO":
+  url: https://www.csiro.au/
+  color: "#00a9ce"
+
+"Comm. ACM":
+  url: https://cacm.acm.org/
+  color: "#3395b6"
+
+"First Monday":
+  url: https://firstmonday.org/ojs/index.php/fm/index
+  color: "#cc0000"
+
+"IEEE-TTS":
+  url: https://technologyandsociety.org/transactions/
+  color: "#00a1b7"
+
+"arXiv":
+  url: https://arxiv.org
+  color: "#b31b1b"
+
+"Delphi":
+  url: https://delphi.lexxion.eu/
+  color: "#78b800"
+
+"JICES":
+  url: https://www.emerald.com/insight/publication/issn/1477-996X
+  color: "#78a2d7"
+
+"UQ":
+  url: https://espace.library.uq.edu.au/view/UQ:261538
+  color: "#51247a"
+
+"EIAR":
+  url: https://www.sciencedirect.com/journal/environmental-impact-assessment-review
+  color: "#688000"
