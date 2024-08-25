@@ -4,7 +4,33 @@
  ******************************************************************************/
 
 // Colors
-$red-color: #ff3636 !default;
+
+//Nord
+$red-color: #BF616A !default;
+$red-color-dark: darken($red-color, 25%);
+$orange-color: #D08770 !default;
+$blue-color: #81A1C1 !default;
+$blue-color-dark: #5E81AC !default;
+$cyan-color: #88C0D0 !default;
+$light-cyan-color: lighten($cyan-color, 25%);
+$green-color: #00ab37 !default;
+$green-color-lime: #b7d12a !default;
+$green-color-dark: #009f06 !default;
+$green-color-light: #ddffdd !default;
+$green-color-bright: #11d68b !default;
+$purple-color: #B48EAD !default;
+$light-purple-color: lighten($purple-color, 25%);
+$pink-color: #f92080 !default;
+$pink-color-light: #ffdddd !default;
+$yellow-color: #EBCB8B !default;
+
+$grey-color: #434C5E !default;
+$grey-color-light: #ECEFF4;
+$grey-color-dark: #2E3440;
+$grey-900: #212529;
+
+//Default
+/*$red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
 $blue-color: #0076df !default;
@@ -25,7 +51,7 @@ $yellow-color: #efcc00 !default;
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: #1c1c1d;
-$grey-900: #212529;
+$grey-900: #212529;*/
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
