@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research projects and projects I have participated in.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Responsible Innovation, Internet Ethics, Computer Ethics]
 horizontal: false
 ---
 
