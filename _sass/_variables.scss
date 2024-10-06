@@ -5,30 +5,55 @@
 
 // Colors
 
-//Nord
-$red-color: #BF616A !default;
-$red-color-dark: darken($red-color, 25%);
-$orange-color: #D08770 !default;
-$blue-color: #81A1C1 !default;
-$blue-color-dark: #5E81AC !default;
-$cyan-color: #88C0D0 !default;
+//Everforest
+$red-color: #E67E80 !default;
+$red-color-dark: #F85552 //darken($red-color, 25%);
+$orange-color: #E69875 !default;
+$blue-color: #3A94C5 !default;
+$blue-color-dark: #384B55 !default;
+$cyan-color: #7FBBB2 !default;
 $light-cyan-color: lighten($cyan-color, 25%);
-$green-color: #00ab37 !default;
-$green-color-lime: #b7d12a !default;
-$green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
-$green-color-bright: #11d68b !default;
-$purple-color: #B48EAD !default;
-$light-purple-color: lighten($purple-color, 25%);
-$pink-color: #f92080 !default;
-$pink-color-light: #ffdddd !default;
-$yellow-color: #EBCB8B !default;
+$green-color: #93B259 !default;
+$green-color-lime: #A7C080 !default;
+$green-color-dark: #8DA101 !default;
+$green-color-light: #E1E4BD !default;
+$green-color-bright: #93B259 !default;
+$purple-color: #DF69BA !default;
+$light-purple-color: #D699B6; //lighten($purple-color, 25%);
+$pink-color: #E66868 !default;
+$pink-color-light: #F4DBD0 !default;
+$yellow-color: #DFA000 !default;
 
-$grey-color: #434C5E !default;
-$grey-color-light: #ECEFF4;
+$grey-color: #939F91 !default;
+$grey-color-light: #A6B0A0;
 /*$grey-color-dark: #2E3440;*/
-$grey-color-dark: #D8DEE9;
-$grey-900: #212529;
+$grey-color-dark: #5C6A72;
+$grey-900: #829181;
+
+//Nord
+//$red-color: #BF616A !default;
+//$red-color-dark: darken($red-color, 25%);
+//$orange-color: #D08770 !default;
+//$blue-color: #81A1C1 !default;
+//$blue-color-dark: #5E81AC !default;
+//$cyan-color: #88C0D0 !default;
+//$light-cyan-color: lighten($cyan-color, 25%);
+//$green-color: #00ab37 !default;
+//$green-color-lime: #b7d12a !default;
+//$green-color-dark: #009f06 !default;
+//$green-color-light: #ddffdd !default;
+//$green-color-bright: #11d68b !default;
+//$purple-color: #B48EAD !default;
+//$light-purple-color: lighten($purple-color, 25%);
+//$pink-color: #f92080 !default;
+//$pink-color-light: #ffdddd !default;
+//$yellow-color: #EBCB8B !default;
+
+//$grey-color: #434C5E !default;
+//$grey-color-light: #ECEFF4;
+/*$grey-color-dark: #2E3440;*/
+//$grey-color-dark: #D8DEE9;
+//$grey-900: #212529;
 
 //Default
 /*$red-color: #ff3636 !default;
