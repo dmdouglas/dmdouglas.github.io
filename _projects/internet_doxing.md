@@ -17,13 +17,10 @@ related_publications: true
     Photo by <a href="https://unsplash.com/@niv?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Niv Singer</a> on <a href="https://unsplash.com/photos/black-cctv-camera-on-wall-LkD_IH8_K8k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
-From 2015 to 2019, I researched the ethical aspects of the practice of 'doxing' (or 'doxxing'), where personal information is intentionally released to the public on the Internet, often with the goal of humiliating, threatening, intimidating, or punishing those identified. 
+From 2015 to 2019, I researched the ethical aspects of the practice of 'doxing' (or 'doxxing'), where personal information is intentionally released to the public on the Internet, often with the goal of humiliating, threatening, intimidating, or punishing those identified.
 
-In {% cite douglas_doxing_2016 %} I present an account that distinguishes between three types of doxing: *deanonymizing doxing* (where personal information establishing the identity of an individual who was previously anonymous); *targeting doxing* that discloses personal information that reveals specific details about an individual that at usually private, obscure, or obfuscated; and *delegitmizing doxing*, where personal infomation is revealed to damage an individual's credibility.
+In {% cite douglas_doxing_2016 %} I present an account that distinguishes between three types of doxing: _deanonymizing doxing_ (where personal information establishing the identity of an individual who was previously anonymous); _targeting doxing_ that discloses personal information that reveals specific details about an individual that at usually private, obscure, or obfuscated; and _delegitmizing doxing_, where personal infomation is revealed to damage an individual's credibility.
 
 In {% cite douglas2018personal %}, I discuss how the concepts of 'personal information' and 'identification information' from the 1988 Australian Privacy Act correspond with the seven types of identity knowledge identified by Gary T. Marx. I argues that the statutory definitions in the Privacy Act should be expanded to provide better protection to victims of doxing in Australia.
 
 In {% cite douglas_doxing_2020 %}, I present an ethical justification for doxing as a form of audience vigilantism in response to hate speech. I argue that deanonymizing doxing a proponent of hate speech is an appropriate means of combating hate speech if it is intended to begin a process of deradicalisation.
-
-
-

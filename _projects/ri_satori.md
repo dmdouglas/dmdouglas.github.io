@@ -5,7 +5,7 @@ description: Stakeholders Acting Together On the ethical impact assessment of Re
 img: assets/img/ousa-chea-gKUC4TMhOiY-unsplash.jpg
 importance: 5
 category: Responsible Innovation
-related_publications: true 
+related_publications: true
 ---
 
 <div class="row">
@@ -17,7 +17,7 @@ related_publications: true
     Photo by <a href="https://unsplash.com/@cheaousa?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ousa Chea</a> on <a href="https://unsplash.com/photos/white-microscope-on-top-of-black-table-gKUC4TMhOiY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
 
-[SATORI (Stakeholders Acting Together On the ethical impact assessment of Research and Innovation)](http://satoriproject.eu/) was a four-year EU project to develop a common European framework for the ethical assessment of research and innovation activity. I contributed to the project during my time with the University of Twente in 2015 and 2016. 
+[SATORI (Stakeholders Acting Together On the ethical impact assessment of Research and Innovation)](http://satoriproject.eu/) was a four-year EU project to develop a common European framework for the ethical assessment of research and innovation activity. I contributed to the project during my time with the University of Twente in 2015 and 2016.
 
 The specific project reports that I contributed to and their authors/compilers are listed below in alphabetical order.
 
@@ -36,8 +36,3 @@ The specific project reports that I contributed to and their authors/compilers a
 [Principles and Approaches in Ethics Assessment: Ethics and Risk](http://satoriproject.eu/media/1.h-Ethics-and-Risk1.pdf) {%cite koivisto_principles_2015 %}.
 
 [Roadmap towards Adoption of a Fully Developed Ethics Assessment Framework](http://satoriproject.eu/media/D4.3_SATORI_Roadmap.pdf){%cite callies_outline_2017 %}.
-
-
-
-
-

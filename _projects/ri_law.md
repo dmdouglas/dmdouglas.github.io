@@ -21,5 +21,5 @@ In 2019 and 2020 I contributed to a CSIRO report {%cite ibarra2020machine %} on 
 
 The official project page can be found here: <a href="https://research.csiro.au/ri/trust-in-machine-learning-and-law-enforcement/">Trust in Machine Learning and Law Enforcement</a>.
 
-This report was also featured on CSIRO's Data61 website:  <a href=
+This report was also featured on CSIRO's Data61 website: <a href=
 "https://www.csiro.au/en/news/All/Articles/2020/November/designing-trustworthy-machine-learning-systems">The Journey Towards Understanding User Trust and How to Design Trustworthy Systems (Data61)</a>.

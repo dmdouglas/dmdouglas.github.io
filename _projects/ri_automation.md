@@ -5,7 +5,7 @@ description: Examining researchers' views on automating science
 img: assets/img/testalize-me-igSTmAWAW3s-unsplash.jpg
 importance: 1
 category: Responsible Innovation
-related_publications: 
+related_publications:
 ---
 
 <div class="row">
@@ -20,7 +20,3 @@ related_publications:
 In 2022 and 2023, I led a research project at the CSIRO that asked researchers from several research fields about their perspectives on automating scientific research using artificial intelligence. The paper describing this research is currently under review.
 
 The official project page can be found here: <a href="https://research.csiro.au/ri/investigating-the-benefits-and-impacts-of-automating-science/">Investigating the Benefits and Impacts of Automating Science (CSIRO)</a>.
-
-
-
-

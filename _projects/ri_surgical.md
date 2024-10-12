@@ -5,7 +5,7 @@ description: Examining ethical responsibility for AI-designed tools for surgical
 img: assets/img/marcel-scholte-LPurJnihmQI-unsplash.jpg
 importance: 2
 category: Responsible Innovation
-related_publications: true 
+related_publications: true
 ---
 
 <div class="row">
@@ -24,7 +24,3 @@ This project was also my first work using qualitative research methods.
 The official project page can be found here: [Responsibility for Bespoke 3D Printed Surgical Robots (CSIRO)](https://research.csiro.au/ri/responsibility-for-bespoke-3d-printed-surgical-robots/).
 
 I was also interviewed for the CSIRO Responsible Innovation Future Science Platform blog about this project: [Who Bears Responsibility When AI Systems Go Wrong? (CSIRO)](https://research.csiro.au/ri/responsibility-ai-tools/).
-
-
-
-

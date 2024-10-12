@@ -5,7 +5,7 @@ description: Examining the ethical justifications for property rights over softw
 img: assets/img/markus-spiske-KeFyYzxqmH0-unsplash.jpg
 importance: 4
 category: Computer Ethics
-related_publications: true 
+related_publications: true
 ---
 
 <div class="row">
