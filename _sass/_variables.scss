@@ -5,32 +5,32 @@
 
 // Colors
 
-//Everforest
-//$red-color: #e67e80 !default;
-//$red-color-dark: #f85552; //darken($red-color, 25%);
-//$orange-color: #e69875 !default;
-//$blue-color: #3a94c5 !default;
-//$blue-color-dark: #384b55 !default;
-//$cyan-color: #7fbbb2 !default;
-//$light-cyan-color: lighten($cyan-color, 25%);
-//$green-color: #93b259 !default;
-//$green-color-lime: #a7c080 !default;
-//$green-color-dark: #8da101 !default;
-//$green-color-light: #e1e4bd !default;
-//$green-color-bright: #93b259 !default;
-//$purple-color: #df69ba !default;
-//$light-purple-color: #d699b6; //lighten($purple-color, 25%);
-//$pink-color: #e66868 !default;
-//$pink-color-light: #f4dbd0 !default;
-//$yellow-color: #dfa000 !default;
+//Open Color
+$red-color: #ff6b6b !default; // red-5
+$red-color-dark: #c92a2a; // red-9
+$orange-color: #ff922b !default; // orange-5
+$blue-color: #339af0 !default; // blue-5
+$blue-color-dark: #1864ab !default; // blue-9
+$cyan-color: #22b8cf !default; // cyan-5
+$light-cyan-color: #66d9e8 !default; // cyan-3
+$green-color: #51cf66 !default; // green-5
+$green-color-lime: #94d82d !default; // lime-5
+$green-color-dark: #2b8a3e !default; // green-9
+$green-color-light: #8ce99a !default; // green-3
+$green-color-bright: #c0eb75 !default; // lime-3
+$purple-color: #845ef7 !default; // violet-5
+$light-purple-color: #b197fc; // violet-3
+$pink-color: #f06595 !default; // pink-5
+$pink-color-light: #faa2c1 !default; // pink-3
+$yellow-color: #ffd43b !default; // yellow-4
 
-//$grey-color: #939f91 !default;
-//$grey-color-light: #a6b0a0;
-/*$grey-color-dark: #2E3440;*/
-//$grey-color-dark: #5c6a72;
-//$grey-900: #829181;
+$grey-color: #adb5bd !default; // gray-5
+$grey-color-light: #ced4da; // gray-4
+$grey-color-dark: #495057; // gray-7
+$grey-900: #212529; // gray-9
 
 //Nord
+/*
 $red-color: #bf616a !default;
 $red-color-dark: darken($red-color, 25%);
 $orange-color: #d08770 !default;
@@ -49,11 +49,12 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #ebcb8b !default;
 
-$grey-color: #d8dee9 !default;
+$grey-color: #434c5e !default;
 $grey-color-light: #eceff4;
 $grey-color-dark: #2e3440;
 //$grey-color-dark: #D8DEE9;
 $grey-900: #212529;
+*/
 
 //Default
 /*$red-color: #ff3636 !default;
