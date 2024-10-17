@@ -5,7 +5,35 @@
 
 // Colors
 
+//Flexoki
+$red-color: #d14d14 !default; 
+$red-color-dark: #af3029; 
+$orange-color: #da702c !default; 
+$blue-color: #4385be !default; 
+$blue-color-dark: #205ea6 !default; 
+$cyan-color: #24837b !default; 
+$light-cyan-color: #3aa99f !default; 
+$green-color: #879a39 !default; 
+$green-color-lime: #94d82d !default; // lime-5
+$green-color-dark: #66800b !default; 
+$green-color-light: #8ce99a !default; // green-3
+$green-color-bright: #c0eb75 !default; // lime-3
+$purple-color: #5e409d !default; // violet-5
+$light-purple-color: #8b7ec8; // violet-3
+$pink-color: #a02f6f !default; // pink-5
+$pink-color-light: #ce5d97 !default; // pink-3
+$yellow-color: #d0a215 !default; // yellow-4
+
+$grey-color: #575653 !default; // base-700
+$grey-color-light: #878580; // base-500
+$grey-color-dark: #403e3c; // base-800
+$grey-900: #282726; // base-900
+
+$white-color: #fffcf0 !default;
+$black-color: #100f0f !default;
+
 //Open Color
+/*
 $red-color: #ff6b6b !default; // red-5
 $red-color-dark: #c92a2a; // red-9
 $orange-color: #ff922b !default; // orange-5
@@ -28,6 +56,7 @@ $grey-color: #868e96 !default; // gray-6
 $grey-color-light: #ced4da; // gray-4
 $grey-color-dark: #495057; // gray-7
 $grey-900: #212529; // gray-9
+*/
 
 //Nord
 /*
@@ -80,8 +109,10 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: #1c1c1d;
 $grey-900: #212529;*/
 
+/*
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
+*/
 
 // Theme colors
 
