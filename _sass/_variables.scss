@@ -25,12 +25,18 @@ $pink-color-light: #ce5d97 !default; // pink-3
 $yellow-color: #d0a215 !default; // yellow-4
 
 $grey-color: #575653 !default; // base-700
-$grey-color-light: #878580; // base-500
+$grey-color-light: #cecdc3; // tx Dark theme
 $grey-color-dark: #403e3c; // base-800
 $grey-900: #282726; // base-900
 
+$text-light: #6f6e69; // tx-2 Light theme (base-600)
+$text-dark: #c3cdc3; // tx Dark theme (base-200)
+
 $white-color: #fffcf0 !default;
 $black-color: #100f0f !default;
+
+$code-bg-color-light: #f2f0e5 !default;
+$code-bg-color-dark: #1c1b1a !default; // bg-2 Dark theme (base-950)
 
 //Open Color
 /*
@@ -116,8 +122,10 @@ $black-color: #000000 !default;
 
 // Theme colors
 
+/*
 $code-bg-color-light: rgba($purple-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
+*/
 
 // Font awesome location
 $fa-font-path: "../webfonts";
