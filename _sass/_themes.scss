@@ -69,8 +69,8 @@
 }
 
 html[data-theme="dark"] {
-  --global-bg-color: #{$black-color};
-  --global-code-bg-color: #{$code-bg-color-dark};
+  --global-bg-color: #{$code-bg-color-dark};
+  --global-code-bg-color: #{$black-color};
   --global-text-color: #{$grey-color-light};
   --global-text-color-light: #{$black-color};
   --global-theme-color: #{$blue-color};
