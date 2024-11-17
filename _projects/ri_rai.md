@@ -14,7 +14,7 @@ related_publications: true
     </div>
 </div>
 <div class="caption">
-	<span><a href="www.linkedin.com/in/rick-p-77b5333/">Rick Payne and team</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Ai is... Banner / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
+	<span>Rick Payne and team / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Ai is... Banner / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
 </div>
 
 From 2020 to 2023, I was part of a multidisciplinary research project at the CSIRO investigating how AI ethics principles are used in practice by the developers and users of AI systems {% cite sanderson_towards_2022 %}, {% cite sanderson_towards_2022}, {% cite sanderson_ai_2023 %}, {% cite sanderson_towards_2022 %}. Insights from interviews with researchers who develop or use AI in their work was used to inform the development of a set of design patterns AI developers can use to develop responsible AI systems. As part of this broad project, I conducted research interviews, helped to analyse the interview transcripts, and contributed to the published papers.
